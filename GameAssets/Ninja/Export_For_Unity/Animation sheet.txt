@@ -1,0 +1,27 @@
+Idle:0-180
+Walk_Cycle:(181-211) 181-241
+Run_Cycle:(242-262) 242-282
+Combat_Ilde:283-383
+Slice_01:384-396
+Slice_02:396-408
+Slice_03:408-420
+Slice_04:420-432
+Big_Slice:432-456
+Shuriken_Trhow:457-479
+Dash:480-490
+Hit:490-500
+Die:501-539
+
+8 Directions:
+
+Front:540-560
+Front-Left:561-581
+Front-Right: 582-602
+Back:603-623
+Back-Left:624-644
+Back-Right:645-665
+Left:666-682
+Right:683-699
+Break:700-745
+
+
