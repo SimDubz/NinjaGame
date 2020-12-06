@@ -844,3 +844,1029 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.06-01.01.04:572][991]LogSlate: Window 'SK_Monster' being destroyed
 [2020.12.06-01.01.08:649][231]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
 [2020.12.06-01.01.08:649][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-01.16.33:173][642]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{248714ac-a11f-473c-8c95-382ce30d60bd}.
+[2020.12.06-01.16.33:204][642]LogAudioMixer: Resetting audio stream to device id 
+[2020.12.06-01.16.33:215][642]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.06-01.16.33:215][642]LogAudioMixer: Display: 1: FrontRight
+[2020.12.06-01.17.22:554][126]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2020.12.06-01.18.03:370][523]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2020.12.06-01.18.06:529][583]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2020.12.06-01.19.00:929][147]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2020.12.06-01.20.38:419][244]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2020.12.06-01.21.22:827][671]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2020.12.06-01.21.23:884][679]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2020.12.06-01.21.47:634][944]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2020.12.06-01.22.00:385][114]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2020.12.06-01.23.28:978][163]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2020.12.06-01.23.29:033][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.06-01.23.29:866][196]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{df93b801-7e60-42f9-9e70-db42f3020167}.
+[2020.12.06-01.23.29:878][196]LogAudioMixer: Resetting audio stream to device id 
+[2020.12.06-01.23.30:053][196]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.06-01.23.30:053][196]LogAudioMixer: Display: 1: FrontRight
+[2020.12.06-01.23.30:235][201]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{df93b801-7e60-42f9-9e70-db42f3020167}.
+[2020.12.06-01.23.30:246][201]LogAudioMixer: Resetting audio stream to device id 
+[2020.12.06-01.23.30:620][201]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.06-01.23.30:620][201]LogAudioMixer: Display: 1: FrontRight
+[2020.12.06-01.23.38:877][694]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.23.40:131][765]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.23.40:156][765]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Monster/Mesh/SK_Monster_Anim.SK_Monster_Anim
+[2020.12.06-01.23.40:160][765]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.06-01.23.40:183][765]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.24.26:259][509]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.24.26:529][516]LogSlate: Window 'SK_Monster_Anim' being destroyed
+[2020.12.06-01.24.42:533][472]Cmd: DUPLICATE
+[2020.12.06-01.24.42:533][472]Cmd: ACTOR DUPLICATE
+[2020.12.06-01.24.42:551][472]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.24.56:001][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.06-01.25.02:271][649]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.25.02:305][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Monster/Mesh/SK_Monster_Anim3" FILE="D:/NinjaGame/Ue4NinjaGame/Content/Monster/Mesh/SK_Monster_Anim3.uasset" SILENT=true
+[2020.12.06-01.25.02:314][649]LogSavePackage: Moving 'D:/NinjaGame/Ue4NinjaGame/Saved/SK_Monster_Anim3E7975B084BB8568BA99D7F9ADAD78F8F.tmp' to 'D:/NinjaGame/Ue4NinjaGame/Content/Monster/Mesh/SK_Monster_Anim3.uasset'
+[2020.12.06-01.25.02:322][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Monster/Mesh/SK_Monster_Anim1" FILE="D:/NinjaGame/Ue4NinjaGame/Content/Monster/Mesh/SK_Monster_Anim1.uasset" SILENT=true
+[2020.12.06-01.25.02:330][649]LogSavePackage: Moving 'D:/NinjaGame/Ue4NinjaGame/Saved/SK_Monster_Anim1A3F0B29B4B9A2DB87C10C2A8DF5DB3DE.tmp' to 'D:/NinjaGame/Ue4NinjaGame/Content/Monster/Mesh/SK_Monster_Anim1.uasset'
+[2020.12.06-01.25.02:338][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Monster/Mesh/SK_Monster_Anim2" FILE="D:/NinjaGame/Ue4NinjaGame/Content/Monster/Mesh/SK_Monster_Anim2.uasset" SILENT=true
+[2020.12.06-01.25.02:347][649]LogSavePackage: Moving 'D:/NinjaGame/Ue4NinjaGame/Saved/SK_Monster_Anim213D28156440ECD4FEDB057A49FC280D8.tmp' to 'D:/NinjaGame/Ue4NinjaGame/Content/Monster/Mesh/SK_Monster_Anim2.uasset'
+[2020.12.06-01.25.02:359][649]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.06-01.25.02:359][649]LogContentValidation: Display: Validating AnimSequence /Game/Monster/Mesh/SK_Monster_Anim1.SK_Monster_Anim1
+[2020.12.06-01.25.02:359][649]LogContentValidation: Display: Validating AnimSequence /Game/Monster/Mesh/SK_Monster_Anim2.SK_Monster_Anim2
+[2020.12.06-01.25.02:359][649]LogContentValidation: Display: Validating AnimSequence /Game/Monster/Mesh/SK_Monster_Anim3.SK_Monster_Anim3
+[2020.12.06-01.25.10:088][110]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.25.11:630][202]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.25.12:646][260]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.25.20:350][720]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.25.21:453][786]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.25.22:224][830]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.25.22:248][830]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.25.22:265][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Monster/Animation/SK_Monster_Anim5" FILE="D:/NinjaGame/Ue4NinjaGame/Content/Monster/Animation/SK_Monster_Anim5.uasset" SILENT=true
+[2020.12.06-01.25.22:274][830]LogSavePackage: Moving 'D:/NinjaGame/Ue4NinjaGame/Saved/SK_Monster_Anim59D590B96478C91729FA74DAF84A302EB.tmp' to 'D:/NinjaGame/Ue4NinjaGame/Content/Monster/Animation/SK_Monster_Anim5.uasset'
+[2020.12.06-01.25.22:282][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Monster/Animation/SK_Monster_Anim1" FILE="D:/NinjaGame/Ue4NinjaGame/Content/Monster/Animation/SK_Monster_Anim1.uasset" SILENT=true
+[2020.12.06-01.25.22:290][830]LogSavePackage: Moving 'D:/NinjaGame/Ue4NinjaGame/Saved/SK_Monster_Anim105D2C1C640ABB613785A988716AE4998.tmp' to 'D:/NinjaGame/Ue4NinjaGame/Content/Monster/Animation/SK_Monster_Anim1.uasset'
+[2020.12.06-01.25.22:299][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Monster/Animation/SK_Monster_Anim2" FILE="D:/NinjaGame/Ue4NinjaGame/Content/Monster/Animation/SK_Monster_Anim2.uasset" SILENT=true
+[2020.12.06-01.25.22:307][830]LogSavePackage: Moving 'D:/NinjaGame/Ue4NinjaGame/Saved/SK_Monster_Anim25459BD994048EBF8A1E6BB938EA86872.tmp' to 'D:/NinjaGame/Ue4NinjaGame/Content/Monster/Animation/SK_Monster_Anim2.uasset'
+[2020.12.06-01.25.22:315][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Monster/Animation/SK_Monster_Anim3" FILE="D:/NinjaGame/Ue4NinjaGame/Content/Monster/Animation/SK_Monster_Anim3.uasset" SILENT=true
+[2020.12.06-01.25.22:324][830]LogSavePackage: Moving 'D:/NinjaGame/Ue4NinjaGame/Saved/SK_Monster_Anim3E9F579F8475A84C9EE7548BE6EA79412.tmp' to 'D:/NinjaGame/Ue4NinjaGame/Content/Monster/Animation/SK_Monster_Anim3.uasset'
+[2020.12.06-01.25.22:332][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Monster/Animation/SK_Monster_Anim4" FILE="D:/NinjaGame/Ue4NinjaGame/Content/Monster/Animation/SK_Monster_Anim4.uasset" SILENT=true
+[2020.12.06-01.25.22:340][830]LogSavePackage: Moving 'D:/NinjaGame/Ue4NinjaGame/Saved/SK_Monster_Anim4B873EA31486451BD87A17980D4E97EEA.tmp' to 'D:/NinjaGame/Ue4NinjaGame/Content/Monster/Animation/SK_Monster_Anim4.uasset'
+[2020.12.06-01.25.22:348][830]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.25.22:378][830]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.25.22:396][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.12.06-01.25.22:403][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.12.06-01.25.22:407][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.06-01.25.22:412][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2020.12.06-01.25.22:417][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.12.06-01.25.22:427][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.12.06-01.25.22:431][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.06-01.25.22:471][830]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.25.22:480][830]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.06-01.25.22:480][830]LogContentValidation: Display: Validating AnimSequence /Game/Monster/Animation/SK_Monster_Anim1.SK_Monster_Anim1
+[2020.12.06-01.25.22:480][830]LogContentValidation: Display: Validating AnimSequence /Game/Monster/Animation/SK_Monster_Anim2.SK_Monster_Anim2
+[2020.12.06-01.25.22:481][830]LogContentValidation: Display: Validating AnimSequence /Game/Monster/Animation/SK_Monster_Anim3.SK_Monster_Anim3
+[2020.12.06-01.25.22:481][830]LogContentValidation: Display: Validating AnimSequence /Game/Monster/Animation/SK_Monster_Anim4.SK_Monster_Anim4
+[2020.12.06-01.25.22:481][830]LogContentValidation: Display: Validating AnimSequence /Game/Monster/Animation/SK_Monster_Anim5.SK_Monster_Anim5
+[2020.12.06-01.26.22:355][418]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.26.31:349][946]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.26.31:375][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.12.06-01.26.31:378][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level_Testing" FILE="D:/NinjaGame/Ue4NinjaGame/Saved/Autosaves/Game/Level/Level_Testing_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.12.06-01.26.31:392][946]LogSavePackage: Moving 'D:/NinjaGame/Ue4NinjaGame/Saved/Level_Testing_Auto1589982B64D54B64486E08AB060886E60.tmp' to 'D:/NinjaGame/Ue4NinjaGame/Saved/Autosaves/Game/Level/Level_Testing_Auto1.umap'
+[2020.12.06-01.26.31:397][946]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Level_Testing' took 0.026
+[2020.12.06-01.26.31:397][946]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2020.12.06-01.27.13:866][487]LogSlate: Window 'Message Log' being destroyed
+[2020.12.06-01.27.13:870][487]LogSlate: Window 'Message Log' being destroyed
+[2020.12.06-01.27.16:770][660]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.27.16:800][660]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Monster/Animation/SK_Monster_Anim1.SK_Monster_Anim1
+[2020.12.06-01.31.24:942][543]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.31.25:852][597]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.31.34:758][132]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Monster/Animation/SK_Monster_Anim1.SK_Monster_Anim1
+[2020.12.06-01.31.40:332][466]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.31.40:658][485]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.06-01.31.40:678][485]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.31.42:240][579]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.31.43:256][640]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.31.43:869][676]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.31.47:490][893]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.31.55:457][371]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Monster/Animation/SK_Monster_Anim1.SK_Monster_Anim1
+[2020.12.06-01.33.51:818][352]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.33.52:391][386]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.33.54:043][486]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Monster/Animation/SK_Monster_Anim1.SK_Monster_Anim1
+[2020.12.06-01.33.55:785][590]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.33.56:928][658]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.33.57:518][694]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Monster/Animation/SK_Monster_Anim1.SK_Monster_Anim1
+[2020.12.06-01.34.03:771][ 69]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.34.04:378][105]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.34.07:595][298]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.34.08:379][345]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.34.09:078][387]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.34.11:406][526]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.34.13:198][633]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.34.13:933][677]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.34.14:581][716]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.34.16:116][808]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.34.21:016][102]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.34.22:984][220]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.34.23:827][270]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.34.25:028][343]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Monster/Animation/SK_Monster_Anim1.SK_Monster_Anim1
+[2020.12.06-01.36.32:782][998]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.36.41:774][530]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.36.41:792][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.12.06-01.36.41:794][530]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Level_Testing' took 0.007
+[2020.12.06-01.36.41:794][530]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Monster/Animation/SK_Monster_Anim1] ([1] browsable assets)...
+[2020.12.06-01.36.41:794][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/Monster/Animation/SK_Monster_Anim1]
+[2020.12.06-01.36.41:794][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Monster/Animation/SK_Monster_Anim1" FILE="D:/NinjaGame/Ue4NinjaGame/Saved/Autosaves/Game/Monster/Animation/SK_Monster_Anim1_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.12.06-01.36.41:800][530]LogSavePackage: Moving 'D:/NinjaGame/Ue4NinjaGame/Saved/SK_Monster_Anim1_Auto22DD74DBB47356ACB0366FEB470599249.tmp' to 'D:/NinjaGame/Ue4NinjaGame/Saved/Autosaves/Game/Monster/Animation/SK_Monster_Anim1_Auto2.uasset'
+[2020.12.06-01.36.41:800][530]LogFileHelpers: Auto-saving content packages took 0.005
+[2020.12.06-01.36.47:079][846]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.36.47:088][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Monster/Animation/SK_Monster_Anim1" FILE="D:/NinjaGame/Ue4NinjaGame/Content/Monster/Animation/SK_Monster_Anim1.uasset" SILENT=true
+[2020.12.06-01.36.47:092][846]LogSavePackage: Moving 'D:/NinjaGame/Ue4NinjaGame/Saved/SK_Monster_Anim1A5DD6C0A4CAE88C04A6BA29B8665C562.tmp' to 'D:/NinjaGame/Ue4NinjaGame/Content/Monster/Animation/SK_Monster_Anim1.uasset'
+[2020.12.06-01.36.47:100][846]AssetCheck: New page: Asset Save: SK_Monster_Anim1
+[2020.12.06-01.36.47:100][846]LogContentValidation: Display: Validating AnimSequence /Game/Monster/Animation/SK_Monster_Anim1.SK_Monster_Anim1
+[2020.12.06-01.36.49:677][999]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.36.50:107][ 22]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.37.09:784][203]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.37.09:819][203]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.37.09:840][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Monster/Animation/Anim_Monster_Run" FILE="D:/NinjaGame/Ue4NinjaGame/Content/Monster/Animation/Anim_Monster_Run.uasset" SILENT=true
+[2020.12.06-01.37.09:849][203]LogSavePackage: Moving 'D:/NinjaGame/Ue4NinjaGame/Saved/Anim_Monster_RunA75FC9A542261CEDD3680587F7A861A3.tmp' to 'D:/NinjaGame/Ue4NinjaGame/Content/Monster/Animation/Anim_Monster_Run.uasset'
+[2020.12.06-01.37.09:855][203]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.37.09:875][203]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.37.09:891][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.12.06-01.37.09:902][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.12.06-01.37.09:907][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.12.06-01.37.09:949][203]AssetCheck: New page: Asset Save: Anim_Monster_Run
+[2020.12.06-01.37.09:949][203]LogContentValidation: Display: Validating AnimSequence /Game/Monster/Animation/Anim_Monster_Run.Anim_Monster_Run
+[2020.12.06-01.38.09:251][758]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.38.09:280][758]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Monster/Animation/SK_Monster_Anim2.SK_Monster_Anim2
+[2020.12.06-01.38.52:852][369]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.38.53:378][400]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.38.54:777][484]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.38.55:506][527]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.39.00:300][815]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.39.01:350][878]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.39.02:101][923]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.39.02:901][971]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.39.03:718][ 20]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.39.04:634][ 75]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.39.05:568][131]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.39.10:910][451]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.39.12:117][523]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Monster/Animation/SK_Monster_Anim2.SK_Monster_Anim2
+[2020.12.06-01.39.26:384][379]Cmd: TRANSACTION UNDO
+[2020.12.06-01.39.26:384][379]LogEditorTransaction: Undo Crop Animation Sequence
+[2020.12.06-01.39.26:448][379]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.06-01.39.26:452][379]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.00:099][592]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.01:435][672]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.02:459][733]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.04:969][884]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.05:984][945]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.06:702][988]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.08:307][ 84]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.09:374][148]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.09:879][178]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.11:493][275]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.12:054][308]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.12:706][348]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Monster/Animation/SK_Monster_Anim2.SK_Monster_Anim2
+[2020.12.06-01.42.14:746][470]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.17:303][623]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.20:011][785]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.23:963][ 23]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Monster/Animation/SK_Monster_Anim2.SK_Monster_Anim2
+[2020.12.06-01.42.29:520][356]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.29:698][366]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.30:618][421]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.33:712][606]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.35:582][718]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.36:416][768]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.38:200][875]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.42.39:570][957]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.43.31:915][ 97]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.43.33:803][210]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.43.39:037][524]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.43.39:938][578]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.43.40:654][621]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.43.41:891][695]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.43.42:825][751]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.43.46:466][969]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.43.47:768][ 47]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.43.55:872][533]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.44.04:852][ 71]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.44.08:281][277]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.44.12:962][557]Cmd: TRANSACTION UNDO
+[2020.12.06-01.44.12:962][557]LogEditorTransaction: Undo Insert Animation Sequence
+[2020.12.06-01.44.13:026][557]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.06-01.44.13:031][557]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.44.32:151][697]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.44.32:456][714]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.44.33:280][763]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.44.38:770][ 90]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.44.38:801][ 90]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Monster/Animation/NewLevelSequence.NewLevelSequence
+[2020.12.06-01.44.41:033][216]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.44.45:715][493]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.45.04:606][621]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.45.05:259][659]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.45.06:131][709]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.45.06:252][715]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.45.07:087][765]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.45.12:250][ 70]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.45.12:658][ 94]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.45.13:358][134]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.45.14:333][192]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.45.18:914][466]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.45.19:125][478]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.45.21:258][604]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.45.22:645][687]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.45.23:726][751]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.45.24:067][771]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.45.25:076][831]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.45.28:692][ 48]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.45.30:544][159]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.45.31:400][210]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.46.37:793][173]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.46.50:767][948]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.46.51:240][975]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.46.51:622][996]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.46.52:224][ 32]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.47.18:835][619]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.47.19:417][653]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.47.19:442][654]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.47.19:605][663]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.47.20:395][710]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.47.45:135][183]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.47.45:482][203]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.47.48:504][382]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.47.59:746][382]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2020.12.06-01.47.59:774][382]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.48.02:333][382]LogSlate: Window 'Animation Sequence Options' being destroyed
+[2020.12.06-01.48.02:349][382]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Monster/Animation/SK_Monster_Idle.SK_Monster_Idle
+[2020.12.06-01.48.02:350][382]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.48.03:946][471]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.48.03:975][471]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Monster/Animation/SK_Monster_Idle.SK_Monster_Idle
+[2020.12.06-01.48.05:402][554]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.48.05:425][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.12.06-01.48.05:428][554]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Level_Testing' took 0.012
+[2020.12.06-01.48.05:428][554]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Monster/Animation/SK_Monster_Anim2] ([2] browsable assets)...
+[2020.12.06-01.48.05:437][554]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Monster/Animation/SK_Monster_Anim2.SK_Monster_Anim2]
+[2020.12.06-01.48.05:444][554]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Monster/Animation/SK_Monster_Anim2.SK_Monster_Anim2]
+[2020.12.06-01.48.05:444][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/Monster/Animation/SK_Monster_Anim2]
+[2020.12.06-01.48.05:444][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Monster/Animation/SK_Monster_Anim2" FILE="D:/NinjaGame/Ue4NinjaGame/Saved/Autosaves/Game/Monster/Animation/SK_Monster_Anim2_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.12.06-01.48.05:453][554]LogSavePackage: Moving 'D:/NinjaGame/Ue4NinjaGame/Saved/SK_Monster_Anim2_Auto32CAB0AC2472A87BB6B3C12BF35B2DC26.tmp' to 'D:/NinjaGame/Ue4NinjaGame/Saved/Autosaves/Game/Monster/Animation/SK_Monster_Anim2_Auto3.uasset'
+[2020.12.06-01.48.05:454][554]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Monster/Animation/NewLevelSequence] ([1] browsable assets)...
+[2020.12.06-01.48.05:454][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/Monster/Animation/NewLevelSequence]
+[2020.12.06-01.48.05:454][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Monster/Animation/NewLevelSequence" FILE="D:/NinjaGame/Ue4NinjaGame/Saved/Autosaves/Game/Monster/Animation/NewLevelSequence_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.12.06-01.48.05:460][554]LogSavePackage: Moving 'D:/NinjaGame/Ue4NinjaGame/Saved/NewLevelSequence_Auto3599C83804B3E7DBF92D8608974C7F802.tmp' to 'D:/NinjaGame/Ue4NinjaGame/Saved/Autosaves/Game/Monster/Animation/NewLevelSequence_Auto3.uasset'
+[2020.12.06-01.48.05:460][554]LogFileHelpers: Auto-saving content packages took 0.032
+[2020.12.06-01.48.08:979][765]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-01.48.08:979][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-01.48.09:042][765]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-01.48.09:042][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-01.48.09:988][819]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.48.09:999][819]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.48.12:652][975]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.48.12:687][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Monster/Animation/SK_Monster_Idle" FILE="D:/NinjaGame/Ue4NinjaGame/Content/Monster/Animation/SK_Monster_Idle.uasset" SILENT=true
+[2020.12.06-01.48.12:695][975]LogSavePackage: Moving 'D:/NinjaGame/Ue4NinjaGame/Saved/SK_Monster_IdleF38825334FBE3B4DC13B9698714F96CD.tmp' to 'D:/NinjaGame/Ue4NinjaGame/Content/Monster/Animation/SK_Monster_Idle.uasset'
+[2020.12.06-01.48.12:703][975]AssetCheck: New page: Asset Save: SK_Monster_Idle
+[2020.12.06-01.48.12:703][975]LogContentValidation: Display: Validating AnimSequence /Game/Monster/Animation/SK_Monster_Idle.SK_Monster_Idle
+[2020.12.06-01.48.15:077][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.12.06-01.48.15:090][116]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.48.16:301][116]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.06-01.48.16:370][116]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Monster/Animation/SK_Monster_Anim2.SK_Monster_Anim2
+[2020.12.06-01.48.16:372][116]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.48.16:737][116]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.48.17:878][116]LogSlate: Window 'Message' being destroyed
+[2020.12.06-01.48.17:883][116]Message dialog closed, result: Ok, title: Message, text: AnimSequence /Game/Monster/Animation/SK_Monster_Anim2.SK_Monster_Anim2 is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of AnimSequence /Game/Monster/Animation/SK_Monster_Anim2.SK_Monster_Anim2:
+   SkeletalMeshComponent /Game/Level/Level_Testing.Level_Testing:PersistentLevel.SKMonsterAnim2.SkeletalMeshComponent0 (1)
+      0) ObjectProperty /Script/Engine.SingleAnimationPlayData:AnimToPlay
+
+
+[2020.12.06-01.48.17:883][116]LogObjectTools: Warning: ForceDeleteObject failed to delete SK_Monster_Anim2, this package is now potentially corrupt
+[2020.12.06-01.48.17:884][116]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.12.06-01.48.18:373][116]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.489 s
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: === Handled ensure: ===
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: 
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3142]
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: 
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: 					from the file system manually: 
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: /Game/Monster/Animation/SK_Monster_Anim2
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: Stack: 
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: [Callstack] 0x00007ffe882941d8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: [Callstack] 0x00007ffe87b385e9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: [Callstack] 0x00007ffe87293e89 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: [Callstack] 0x00007ffe8756f88e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: [Callstack] 0x00007ffe87566d67 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: [Callstack] 0x00007ffea07c85fe UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: [Callstack] 0x00007ffea07e077e UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: [Callstack] 0x00007ffea06246be UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: [Callstack] 0x00007ffea06a7f54 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: [Callstack] 0x00007ffea0690367 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.06-01.48.18:373][116]LogOutputDevice: Error: [Callstack] 0x00007ffea0683642 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffef7febca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffef7fd9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffef7fee379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffef7fd4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007fff37765c1d USER32.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007fff37765612 USER32.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffef7fef7a9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffea06b2274 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffea064d486 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffe875fbd2e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffe87b2bea8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffe87b2b2e7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffe6e966efc UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffe6e9672da UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffe6e957a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffe8113d825 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffe812517de UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffe81233456 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffea06533b9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffea068c65a UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffe8126d43b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffea06225b2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffea068e399 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffea0682236 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffef7feb948 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffef7fd9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffef7fee379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffef7fd4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007fff37765c1d USER32.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007fff37765612 USER32.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ffef7fef904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ff61dbf87e7 UE4Editor.exe!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ff61dc1113c UE4Editor.exe!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ff61dc1121a UE4Editor.exe!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ff61dc2527d UE4Editor.exe!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007ff61dc27faa UE4Editor.exe!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007fff38647c24 KERNEL32.DLL!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: [Callstack] 0x00007fff3960d4d1 ntdll.dll!UnknownFunction []
+[2020.12.06-01.48.18:374][116]LogOutputDevice: Error: 
+[2020.12.06-01.48.18:379][116]LogStats:                SubmitErrorReport -  0.000 s
+[2020.12.06-01.48.20:327][116]LogStats:                    SendNewReport -  1.949 s
+[2020.12.06-01.48.20:327][116]LogStats:             FDebug::EnsureFailed -  2.444 s
+[2020.12.06-01.48.20:344][116]LogAudioMixer: Resetting audio stream to device id 
+[2020.12.06-01.48.20:368][116]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.06-01.48.20:368][116]LogAudioMixer: Display: 1: FrontRight
+[2020.12.06-01.48.21:737][196]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.48.21:761][196]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Monster/Animation/NewLevelSequence.NewLevelSequence
+[2020.12.06-01.48.27:438][527]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.48.27:845][551]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.53.09:968][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.12.06-01.53.10:004][468]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.53.11:692][468]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.06-01.53.11:699][468]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.53.11:719][468]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.53.11:727][468]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.53.11:743][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.12.06-01.53.11:755][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.12.06-01.53.11:760][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.06-01.53.12:792][530]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.53.12:823][530]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Monster/Animation/SK_Monster_Anim3.SK_Monster_Anim3
+[2020.12.06-01.53.12:827][530]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.12.06-01.53.12:847][530]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.53.19:350][898]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.53.19:545][900]LogSlate: Window 'SK_Monster_Anim3' being destroyed
+[2020.12.06-01.53.21:814][ 36]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.53.24:847][218]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.53.25:862][279]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.53.27:704][389]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.53.28:908][461]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.53.29:493][496]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.53.33:528][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.12.06-01.53.33:554][738]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.53.36:834][738]LogSlate: Window 'Save Content' being destroyed
+[2020.12.06-01.53.36:842][738]LogD3D11RHI: CreateSwapChainForHwnd failed with result 'DXGI_ERROR_INVALID_CALL' (0x887A0001), falling back to legacy CreateSwapChain.
+[2020.12.06-01.53.36:851][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Level_Testing" FILE="D:/NinjaGame/Ue4NinjaGame/Content/Level/Level_Testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.06-01.53.36:855][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.06-01.53.36:869][738]LogSavePackage: Moving 'D:/NinjaGame/Ue4NinjaGame/Saved/Level_Testing234552084F5043F73C337DAA09E10FA1.tmp' to 'D:/NinjaGame/Ue4NinjaGame/Content/Level/Level_Testing.umap'
+[2020.12.06-01.53.36:883][738]LogFileHelpers: Saving map 'Level_Testing' took 0.033
+[2020.12.06-01.53.36:884][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Monster/Animation/NewLevelSequence" FILE="D:/NinjaGame/Ue4NinjaGame/Content/Monster/Animation/NewLevelSequence.uasset" SILENT=true
+[2020.12.06-01.53.36:888][738]LogSavePackage: Moving 'D:/NinjaGame/Ue4NinjaGame/Saved/NewLevelSequenceD0B3E2374FD992EB36E7968CFC372AB7.tmp' to 'D:/NinjaGame/Ue4NinjaGame/Content/Monster/Animation/NewLevelSequence.uasset'
+[2020.12.06-01.53.36:962][738]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-01.53.36:962][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-01.53.36:980][738]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-01.53.36:980][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.06-01.53.37:021][738]LogSlate: Window 'Ue4NinjaGame - Unreal Editor' being destroyed
+[2020.12.06-01.53.37:143][738]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.06-01.53.37:143][738]LogContentValidation: Display: Validating LevelSequence /Game/Monster/Animation/NewLevelSequence.NewLevelSequence
+[2020.12.06-01.53.37:143][738]LogContentValidation: Display: Validating World /Game/Level/Level_Testing.Level_Testing
+[2020.12.06-01.53.37:144][739]Cmd: QUIT_EDITOR
+[2020.12.06-01.53.37:144][739]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.12.06-01.53.37:145][739]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.12.06-01.53.37:147][739]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2020.12.06-01.53.37:147][739]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2020.12.06-01.53.37:147][739]LogAudio: Display: Audio Device unregistered from world 'Level_Testing'.
+[2020.12.06-01.53.37:147][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.06-01.53.37:148][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.06-01.53.37:166][739]LogAudio: Display: Audio Device Manager Shutdown
+[2020.12.06-01.53.37:166][739]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2020.12.06-01.53.37:170][739]LogExit: Preparing to exit.
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CC0AA200] Windows
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CC0AA100] Default__DeviceProfile
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CC056000] WindowsNoEditor
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CC0AA000] WindowsServer
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CC054200] WindowsClient
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CC0A8300] IOS
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CC057600] iPadAir
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CC0AA900] iPadAir2
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB33C00] IPadPro
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB33D00] iPadAir3
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CC0A9900] iPadAir4
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB32600] iPadMini2
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CC0ABA00] iPadMini3
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB30E00] iPadMini4
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CC0A8900] iPadMini5
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB57500] iPhone6
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB57600] iPodTouch6
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB33700] iPhone7
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB33600] iPodTouch7
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB56400] iPhone5S
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB31B00] iPhone6Plus
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB54C00] iPhone6S
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB30100] iPhone6SPlus
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB56F00] iPhone7Plus
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB30F00] iPhoneSE
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB55100] iPhone8
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB30900] iPhone8Plus
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB57700] iPhoneX
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB30D00] iPhoneXS
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB54800] iPhoneXSMax
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB32900] iPhoneXR
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB57C00] iPhone11
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB33100] iPhone11Pro
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB56300] iPhone11ProMax
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB31C00] iPhoneSE2
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB55700] iPhone12Mini
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB30C00] iPhone12
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB54100] iPhone12Pro
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB32C00] iPhone12ProMax
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB55400] iPadPro105
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB30600] iPadPro129
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB57B00] iPadPro97
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB33200] iPadPro2_129
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB54E00] iPad5
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB33400] iPad6
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB54F00] iPad7
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CC056C00] iPad8
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB30B00] iPadPro11
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CC057800] iPadPro2_11
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB30500] iPadPro3_129
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CC057D00] iPadPro4_129
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB32F00] AppleTV
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CC057000] AppleTV4K
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB33A00] TVOS
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CC056E00] Mac
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB32300] MacClient
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB57900] MacNoEditor
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CC057A00] MacServer
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB56900] Linux
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CC055600] LinuxNoEditor
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB54400] LinuxAArch64NoEditor
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CC055100] LinuxClient
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB56000] LinuxAArch64Client
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CC056F00] LinuxServer
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB55E00] LinuxAArch64Server
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB33800] Android
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB54D00] Android_Low
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB32D00] Android_Mid
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB55900] Android_High
+[2020.12.06-01.53.37:599][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB32400] Android_Default
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB56500] Android_Adreno4xx
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB31000] Android_Adreno5xx_Low
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB55200] Android_Adreno5xx
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB31D00] Android_Adreno6xx
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB55000] Android_Adreno6xx_Vulkan
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB32800] Android_Mali_T6xx
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB54300] Android_Mali_T7xx
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB31E00] Android_Mali_T8xx
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB54B00] Android_Mali_G71
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB32000] Android_Mali_G72
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB55800] Android_Mali_G72_Vulkan
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB31300] Android_Mali_G76
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB56200] Android_Mali_G76_Vulkan
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB30700] Android_Mali_G77
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB56600] Android_Mali_G77_Vulkan
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB31500] Android_Vulkan_SM5
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB57100] Android_PowerVR_G6xxx
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB30300] Android_PowerVR_GT7xxx
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB54900] Android_PowerVR_GE8xxx
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB31600] Android_PowerVR_GM9xxx
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB57E00] Android_PowerVR_GM9xxx_Vulkan
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB31A00] Android_TegraK1
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB54600] Android_Unknown_Vulkan
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB32700] Lumin
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB57800] Lumin_Desktop
+[2020.12.06-01.53.37:600][739]LogDeviceProfile: Device profile begin destroy: [000002E2CBB32500] HoloLens
+[2020.12.06-01.53.37:607][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:607][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:607][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:607][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:607][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:607][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:607][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:607][739]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:608][739]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-01.53.37:609][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:609][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:609][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:609][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:609][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:609][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:609][739]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.12.06-01.53.37:609][739]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.06-01.53.37:616][739]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.12.06-01.53.37:620][739]LogExit: Transaction tracking system shut down
+[2020.12.06-01.53.37:624][739]LogExit: Editor shut down
+[2020.12.06-01.53.37:737][739]LogExit: Object subsystem successfully closed.
+[2020.12.06-01.53.37:772][739]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module SequencerWidgets (826)
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module AnimationEditor (824)
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (822)
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module PinnedCommandList (820)
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module SkeletonEditor (818)
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (816)
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module SceneOutliner (812)
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module AddContentDialog (810)
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module WidgetCarousel (809)
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module EditorWidgets (806)
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module StatsViewer (804)
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (802)
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (800)
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module AutomationWorker (798)
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module SteamVREditor (796)
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module OculusMR (794)
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module GooglePADEditor (792)
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (790)
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (788)
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (786)
+[2020.12.06-01.53.37:799][739]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (784)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (782)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (780)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (778)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (776)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (774)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module WebMMedia (772)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (770)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (768)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module SequenceRecorder (767)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (764)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (762)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (760)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (758)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (756)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (754)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (752)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (750)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (748)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (746)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module PlanarCut (744)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module CharacterAI (742)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module TextureAlignMode (740)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module BspMode (738)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module GeometryMode (736)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (734)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module SmartSnapping (732)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module SessionServices (730)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module MeshPaint (728)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (726)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module FoliageEdit (724)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module LandscapeEditor (722)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module MeshPaintMode (720)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (718)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module ActorPickerMode (716)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module PlacementMode (714)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module ViewportSnapping (712)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module ViewportInteraction (710)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module ClothPainter (708)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (707)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module LogVisualizer (704)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module IntroTutorials (702)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (701)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (698)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (696)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (694)
+[2020.12.06-01.53.37:800][739]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (693)
+[2020.12.06-01.53.39:509][739]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (690)
+[2020.12.06-01.53.39:510][739]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (688)
+[2020.12.06-01.53.39:510][739]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (686)
+[2020.12.06-01.53.39:510][739]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (684)
+[2020.12.06-01.53.39:510][739]LogModuleManager: Shutting down and abandoning module TraceInsights (682)
+[2020.12.06-01.53.39:510][739]MemoryProfiler: Shutdown
+[2020.12.06-01.53.39:510][739]NetworkingProfiler: Shutdown
+[2020.12.06-01.53.39:510][739]LoadingProfiler: Shutdown
+[2020.12.06-01.53.39:510][739]TimingProfiler: Shutdown
+[2020.12.06-01.53.39:510][739]LogModuleManager: Shutting down and abandoning module TraceServices (681)
+[2020.12.06-01.53.39:510][739]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (678)
+[2020.12.06-01.53.39:510][739]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (676)
+[2020.12.06-01.53.39:510][739]LogModuleManager: Shutting down and abandoning module InputBindingEditor (674)
+[2020.12.06-01.53.39:510][739]LogModuleManager: Shutting down and abandoning module MergeActors (672)
+[2020.12.06-01.53.39:510][739]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (670)
+[2020.12.06-01.53.39:510][739]LogModuleManager: Shutting down and abandoning module LocalizationService (669)
+[2020.12.06-01.53.39:510][739]LogModuleManager: Shutting down and abandoning module HardwareTargeting (666)
+[2020.12.06-01.53.39:510][739]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (664)
+[2020.12.06-01.53.39:510][739]LogModuleManager: Shutting down and abandoning module UndoHistory (662)
+[2020.12.06-01.53.39:510][739]LogModuleManager: Shutting down and abandoning module XmlParser (660)
+[2020.12.06-01.53.39:511][739]LogModuleManager: Shutting down and abandoning module Blutility (658)
+[2020.12.06-01.53.39:511][739]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (656)
+[2020.12.06-01.53.39:511][739]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (655)
+[2020.12.06-01.53.39:511][739]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (652)
+[2020.12.06-01.53.39:511][739]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (651)
+[2020.12.06-01.53.39:511][739]LogModuleManager: Shutting down and abandoning module SettingsEditor (648)
+[2020.12.06-01.53.39:511][739]LogModuleManager: Shutting down and abandoning module ProjectLauncher (646)
+[2020.12.06-01.53.39:511][739]LogModuleManager: Shutting down and abandoning module SessionFrontend (644)
+[2020.12.06-01.53.39:511][739]LogModuleManager: Shutting down and abandoning module ProfilerClient (642)
+[2020.12.06-01.53.39:511][739]LogModuleManager: Shutting down and abandoning module DeviceManager (640)
+[2020.12.06-01.53.39:511][739]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (639)
+[2020.12.06-01.53.39:546][739]LogModuleManager: Shutting down and abandoning module AutomationController (636)
+[2020.12.06-01.53.39:546][739]LogModuleManager: Shutting down and abandoning module AutomationWindow (634)
+[2020.12.06-01.53.39:546][739]LogModuleManager: Shutting down and abandoning module Layers (632)
+[2020.12.06-01.53.39:546][739]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (630)
+[2020.12.06-01.53.39:546][739]LogModuleManager: Shutting down and abandoning module DetailCustomizations (628)
+[2020.12.06-01.53.39:547][739]LogModuleManager: Shutting down and abandoning module PackagesDialog (626)
+[2020.12.06-01.53.39:547][739]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (624)
+[2020.12.06-01.53.39:547][739]LogModuleManager: Shutting down and abandoning module Persona (622)
+[2020.12.06-01.53.39:547][739]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (621)
+[2020.12.06-01.53.39:547][739]LogModuleManager: Shutting down and abandoning module AnimGraph (619)
+[2020.12.06-01.53.39:547][739]LogModuleManager: Shutting down and abandoning module Kismet (616)
+[2020.12.06-01.53.39:548][739]LogModuleManager: Shutting down and abandoning module KismetWidgets (615)
+[2020.12.06-01.53.39:548][739]LogModuleManager: Shutting down and abandoning module GraphEditor (612)
+[2020.12.06-01.53.39:549][739]LogModuleManager: Shutting down and abandoning module StructViewer (610)
+[2020.12.06-01.53.39:549][739]LogModuleManager: Shutting down and abandoning module ClassViewer (608)
+[2020.12.06-01.53.39:551][739]LogModuleManager: Shutting down and abandoning module Toolbox (606)
+[2020.12.06-01.53.39:551][739]LogModuleManager: Shutting down and abandoning module ModuleUI (604)
+[2020.12.06-01.53.39:551][739]LogModuleManager: Shutting down and abandoning module OutputLog (602)
+[2020.12.06-01.53.39:552][739]LogModuleManager: Shutting down and abandoning module GammaUI (600)
+[2020.12.06-01.53.39:552][739]LogModuleManager: Shutting down and abandoning module Documentation (598)
+[2020.12.06-01.53.39:552][739]LogModuleManager: Shutting down and abandoning module LiveCoding (596)
+[2020.12.06-01.53.39:553][739]LogModuleManager: Shutting down and abandoning module LevelSequence (594)
+[2020.12.06-01.53.39:553][739]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (592)
+[2020.12.06-01.53.39:553][739]LogModuleManager: Shutting down and abandoning module MovieScene (590)
+[2020.12.06-01.53.39:553][739]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (588)
+[2020.12.06-01.53.39:553][739]LogModuleManager: Shutting down and abandoning module LauncherPlatform (586)
+[2020.12.06-01.53.39:553][739]LogModuleManager: Shutting down and abandoning module AnalyticsET (584)
+[2020.12.06-01.53.39:553][739]LogModuleManager: Shutting down and abandoning module PortalServices (582)
+[2020.12.06-01.53.39:553][739]LogModuleManager: Shutting down and abandoning module PortalRpc (580)
+[2020.12.06-01.53.39:553][739]LogModuleManager: Shutting down and abandoning module MessagingRpc (578)
+[2020.12.06-01.53.39:553][739]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (576)
+[2020.12.06-01.53.39:553][739]LogModuleManager: Shutting down and abandoning module AudioMixerCore (575)
+[2020.12.06-01.53.39:553][739]LogModuleManager: Shutting down and abandoning module AIModule (572)
+[2020.12.06-01.53.39:553][739]LogModuleManager: Shutting down and abandoning module GameplayDebugger (571)
+[2020.12.06-01.53.39:554][739]LogModuleManager: Shutting down and abandoning module AITestSuite (569)
+[2020.12.06-01.53.39:554][739]LogModuleManager: Shutting down and abandoning module NavigationSystem (567)
+[2020.12.06-01.53.39:554][739]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (564)
+[2020.12.06-01.53.39:565][739]LogModuleManager: Shutting down and abandoning module ProfilerService (562)
+[2020.12.06-01.53.39:679][739]LogModuleManager: Shutting down and abandoning module TaskGraph (560)
+[2020.12.06-01.53.39:679][739]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (558)
+[2020.12.06-01.53.39:679][739]LogModuleManager: Shutting down and abandoning module OculusEditor (556)
+[2020.12.06-01.53.39:679][739]LogModuleManager: Shutting down and abandoning module OculusInput (554)
+[2020.12.06-01.53.39:679][739]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (552)
+[2020.12.06-01.53.39:679][739]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (550)
+[2020.12.06-01.53.39:679][739]LogModuleManager: Shutting down and abandoning module CollectionManager (549)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module SynthesisEditor (546)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module Synthesis (544)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (542)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (540)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module ScreenshotTools (538)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (536)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module GooglePAD (534)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module EditableMesh (532)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (530)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module CableComponent (528)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module AudioCapture (526)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (525)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module AssetTags (522)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (520)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (518)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module AppleImageUtils (516)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module AndroidPermission (514)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (512)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (510)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module TemplateSequence (508)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module MediaCompositing (506)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module ImgMedia (504)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (502)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (500)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (498)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (496)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (494)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (492)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module MotoSynth (490)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (488)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (486)
+[2020.12.06-01.53.39:680][739]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (485)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (482)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (480)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (478)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (476)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module MeshConversion (474)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module DynamicMesh (472)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (470)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module GeometricObjects (468)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (466)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module ChaosNiagara (464)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module FractureEditor (462)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (461)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (458)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (456)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module AutomationUtils (454)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module BackChannel (452)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (450)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module AlembicImporter (448)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module AlembicLibrary (447)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module GeometryCache (446)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (445)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (440)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (438)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module PluginBrowser (436)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (434)
+[2020.12.06-01.53.39:681][739]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (432)
+[2020.12.06-01.53.39:682][739]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (430)
+[2020.12.06-01.53.39:682][739]LogModuleManager: Shutting down and abandoning module CryptoKeys (428)
+[2020.12.06-01.53.39:682][739]LogModuleManager: Shutting down and abandoning module CurveEditorTools (426)
+[2020.12.06-01.53.39:682][739]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (424)
+[2020.12.06-01.53.39:682][739]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (422)
+[2020.12.06-01.53.39:682][739]LogModuleManager: Shutting down and abandoning module UObjectPlugin (420)
+[2020.12.06-01.53.39:682][739]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (418)
+[2020.12.06-01.53.39:682][739]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (416)
+[2020.12.06-01.53.39:682][739]LogModuleManager: Shutting down and abandoning module PluginUtils (414)
+[2020.12.06-01.53.39:682][739]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (412)
+[2020.12.06-01.53.39:682][739]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (410)
+[2020.12.06-01.53.39:682][739]LogModuleManager: Shutting down and abandoning module GitSourceControl (408)
+[2020.12.06-01.53.39:682][739]LogModuleManager: Shutting down and abandoning module SourceControl (407)
+[2020.12.06-01.53.39:682][739]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (404)
+[2020.12.06-01.53.39:682][739]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (402)
+[2020.12.06-01.53.39:683][739]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (400)
+[2020.12.06-01.53.39:683][739]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (398)
+[2020.12.06-01.53.39:683][739]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (396)
+[2020.12.06-01.53.39:683][739]LogModuleManager: Shutting down and abandoning module Paper2DEditor (394)
+[2020.12.06-01.53.39:683][739]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (392)
+[2020.12.06-01.53.39:684][739]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (390)
+[2020.12.06-01.53.39:684][739]LogModuleManager: Shutting down and abandoning module SoundFields (388)
+[2020.12.06-01.53.39:684][739]LogModuleManager: Shutting down and abandoning module SignificanceManager (386)
+[2020.12.06-01.53.39:685][739]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (384)
+[2020.12.06-01.53.39:685][739]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (382)
+[2020.12.06-01.53.39:685][739]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (380)
+[2020.12.06-01.53.39:685][739]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (376)
+[2020.12.06-01.53.39:685][739]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (374)
+[2020.12.06-01.53.39:685][739]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (372)
+[2020.12.06-01.53.39:685][739]LogModuleManager: Shutting down and abandoning module ActorSequence (370)
+[2020.12.06-01.53.39:685][739]LogModuleManager: Shutting down and abandoning module UdpMessaging (368)
+[2020.12.06-01.53.39:786][739]LogModuleManager: Shutting down and abandoning module TcpMessaging (366)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (364)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (362)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (360)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (358)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (356)
+[2020.12.06-01.53.39:886][739]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (354)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (352)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (350)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (348)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module MagicLeapController (346)
+[2020.12.06-01.53.39:886][739]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (344)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module MagicLeapAR (342)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module AugmentedReality (341)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (338)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module Niagara (336)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module SignalProcessing (335)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module NiagaraEditor (333)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module NiagaraCore (330)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (328)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (326)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module FacialAnimation (324)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module DataValidation (322)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (320)
+[2020.12.06-01.53.39:886][739]LogModuleManager: Shutting down and abandoning module LevelEditor (319)
+[2020.12.06-01.53.39:887][739]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (318)
+[2020.12.06-01.53.39:887][739]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (316)
+[2020.12.06-01.53.39:887][739]LogModuleManager: Shutting down and abandoning module MainFrame (314)
+[2020.12.06-01.53.39:887][739]LogModuleManager: Shutting down and abandoning module HotReload (313)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module ToolMenus (309)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module ContentBrowser (307)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module ContentBrowserData (306)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module TreeMap (303)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (300)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module AnimationSharing (298)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (296)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (294)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module Paper2D (292)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (290)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (288)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (286)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module PacketHandler (284)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (282)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (280)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module MediaAssets (278)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module Overlay (276)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module OverlayEditor (275)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module VREditor (272)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module StringTableEditor (270)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (268)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (266)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module FunctionalTesting (264)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (262)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (261)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module UMG (258)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module UMGEditor (257)
+[2020.12.06-01.53.39:888][739]LogModuleManager: Shutting down and abandoning module MessageLog (255)
+[2020.12.06-01.53.39:889][739]LogModuleManager: Shutting down and abandoning module SlateReflector (250)
+[2020.12.06-01.53.39:889][739]LogModuleManager: Shutting down and abandoning module Slate (248)
+[2020.12.06-01.53.39:889][739]LogModuleManager: Shutting down and abandoning module SlateCore (246)
+[2020.12.06-01.53.39:889][739]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (244)
+[2020.12.06-01.53.39:889][739]LogModuleManager: Shutting down and abandoning module UnrealEd (242)
+[2020.12.06-01.53.39:889][739]LogModuleManager: Shutting down and abandoning module MRMesh (240)
+[2020.12.06-01.53.39:889][739]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (238)
+[2020.12.06-01.53.39:889][739]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (236)
+[2020.12.06-01.53.39:889][739]LogModuleManager: Shutting down and abandoning module XAudio2 (234)
+[2020.12.06-01.53.39:889][739]LogModuleManager: Shutting down and abandoning module Networking (232)
+[2020.12.06-01.53.39:889][739]LogModuleManager: Shutting down and abandoning module Core (230)
+[2020.12.06-01.53.39:889][739]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2020.12.06-01.53.39:889][739]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2020.12.06-01.53.39:890][739]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2020.12.06-01.53.39:890][739]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2020.12.06-01.53.39:890][739]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2020.12.06-01.53.39:890][739]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2020.12.06-01.53.39:890][739]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2020.12.06-01.53.39:890][739]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2020.12.06-01.53.39:890][739]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2020.12.06-01.53.39:890][739]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2020.12.06-01.53.39:890][739]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2020.12.06-01.53.39:890][739]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2020.12.06-01.53.39:890][739]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2020.12.06-01.53.39:890][739]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2020.12.06-01.53.39:890][739]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2020.12.06-01.53.39:890][739]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2020.12.06-01.53.39:891][739]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2020.12.06-01.53.39:892][739]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2020.12.06-01.53.39:892][739]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2020.12.06-01.53.39:892][739]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2020.12.06-01.53.39:892][739]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2020.12.06-01.53.39:892][739]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2020.12.06-01.53.39:892][739]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2020.12.06-01.53.39:892][739]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2020.12.06-01.53.39:892][739]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2020.12.06-01.53.39:892][739]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2020.12.06-01.53.39:892][739]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2020.12.06-01.53.39:892][739]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2020.12.06-01.53.39:893][739]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2020.12.06-01.53.39:895][739]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2020.12.06-01.53.39:895][739]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2020.12.06-01.53.39:895][739]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2020.12.06-01.53.39:895][739]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2020.12.06-01.53.39:895][739]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2020.12.06-01.53.39:895][739]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2020.12.06-01.53.39:895][739]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2020.12.06-01.53.39:895][739]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2020.12.06-01.53.39:895][739]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2020.12.06-01.53.39:895][739]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2020.12.06-01.53.39:895][739]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2020.12.06-01.53.39:895][739]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2020.12.06-01.53.39:895][739]LogHMD: Freeing OpenVRDLLHandle.
+[2020.12.06-01.53.39:895][739]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2020.12.06-01.53.39:895][739]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2020.12.06-01.53.39:895][739]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2020.12.06-01.53.39:895][739]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2020.12.06-01.53.39:895][739]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2020.12.06-01.53.39:895][739]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2020.12.06-01.53.39:896][739]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2020.12.06-01.53.39:896][739]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2020.12.06-01.53.39:924][739]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2020.12.06-01.53.39:924][739]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.12.06-01.53.39:924][739]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1C86950F-484E-0F1E-967A-58B2AD490D97%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14685802%2B%2B%2BUE4%2BRelease-4.26&UserID=a6116fc849dea7dd1478abb7307d49e7%7C984fc4c461b94b0bb424d6592c44955a%7C40dcdd3d-d7aa-4e6c-b0de-14b37219be52&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.12.06-01.53.39:924][739]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2020.12.06-01.53.39:956][739]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2020.12.06-01.53.39:957][739]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2020.12.06-01.53.39:958][739]LogModuleManager: Shutting down and abandoning module Media (71)
+[2020.12.06-01.53.39:959][739]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2020.12.06-01.53.39:959][739]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2020.12.06-01.53.39:959][739]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2020.12.06-01.53.39:959][739]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2020.12.06-01.53.39:959][739]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2020.12.06-01.53.39:959][739]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2020.12.06-01.53.39:959][739]LogModuleManager: Shutting down and abandoning module ChaosCloth (56)
+[2020.12.06-01.53.39:959][739]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2020.12.06-01.53.39:959][739]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2020.12.06-01.53.39:959][739]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2020.12.06-01.53.39:959][739]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2020.12.06-01.53.39:959][739]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2020.12.06-01.53.39:959][739]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2020.12.06-01.53.39:960][739]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2020.12.06-01.53.39:960][739]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2020.12.06-01.53.39:960][739]LogXGEController: Cleaning working directory: C:/Users/simon/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.06-01.53.39:960][739]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.12.06-01.53.39:960][739]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2020.12.06-01.53.39:960][739]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.12.06-01.53.39:960][739]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.12.06-01.53.39:960][739]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.12.06-01.53.39:960][739]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.12.06-01.53.39:960][739]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.12.06-01.53.39:960][739]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.12.06-01.53.39:960][739]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.12.06-01.53.39:960][739]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.12.06-01.53.39:960][739]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.12.06-01.53.39:960][739]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.12.06-01.53.39:960][739]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.12.06-01.53.39:960][739]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.12.06-01.53.39:960][739]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.12.06-01.53.39:960][739]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.12.06-01.53.39:961][739]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.12.06-01.53.39:961][739]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.12.06-01.53.39:961][739]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.12.06-01.53.39:961][739]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.12.06-01.53.39:962][739]LogD3D11RHI: Shutdown
+[2020.12.06-01.53.39:962][739]LogD3D11RHI: CleanupD3DDevice
+[2020.12.06-01.53.40:068][739]LogExit: Exiting.
+[2020.12.06-01.53.40:087][739]Log file closed, 12/05/20 20:53:40
